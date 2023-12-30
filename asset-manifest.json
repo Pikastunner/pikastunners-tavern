@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pikastunners-tavern/static/css/main.9ef25870.css",
-    "main.js": "/pikastunners-tavern/static/js/main.411701b2.js",
+    "main.css": "/pikastunners-tavern/static/css/main.0cb6ca21.css",
+    "main.js": "/pikastunners-tavern/static/js/main.8facddf2.js",
     "static/js/787.d4aba7ab.chunk.js": "/pikastunners-tavern/static/js/787.d4aba7ab.chunk.js",
     "static/media/background_photo-4.png": "/pikastunners-tavern/static/media/background_photo-4.c73bed01941b78325fec.png",
     "static/media/background_photo-3.png": "/pikastunners-tavern/static/media/background_photo-3.3017ea1381eeeb0c46e2.png",
@@ -20,12 +20,12 @@
     "static/media/fa-v4compatibility.ttf": "/pikastunners-tavern/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/pikastunners-tavern/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/pikastunners-tavern/index.html",
-    "main.9ef25870.css.map": "/pikastunners-tavern/static/css/main.9ef25870.css.map",
-    "main.411701b2.js.map": "/pikastunners-tavern/static/js/main.411701b2.js.map",
+    "main.0cb6ca21.css.map": "/pikastunners-tavern/static/css/main.0cb6ca21.css.map",
+    "main.8facddf2.js.map": "/pikastunners-tavern/static/js/main.8facddf2.js.map",
     "787.d4aba7ab.chunk.js.map": "/pikastunners-tavern/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ef25870.css",
-    "static/js/main.411701b2.js"
+    "static/css/main.0cb6ca21.css",
+    "static/js/main.8facddf2.js"
   ]
 }
